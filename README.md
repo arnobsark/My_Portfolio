@@ -47,4 +47,4 @@ This project is open-source. Feel free to reuse and adapt the template.
 ## Contact
 
 - GitHub: https://github.com/arnobsark
-- Email: (add your email here)
+- Email: arnobstack@gmail.com
